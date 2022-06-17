@@ -4,6 +4,8 @@ Implemented with Oak and DenoDB.
 
 # Node.js vs Deno
 
+Differences between Node and Deno:
+
 ## Node
     - has access to environment by default
     - has permissions by default, such as the permission to read or write to a file or to access the network
